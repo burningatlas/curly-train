@@ -1,0 +1,28 @@
+{
+  "name": "burningaltas's green-page",
+  "version": "0.0.0",
+  "description": "research findings blog-site",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "burningatlas",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "1.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-sass": "^4.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burningatlas/burningatlas.git"
+  },
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "sass",
+    "browsersync"
+  ]
+}

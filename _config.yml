@@ -1,0 +1,34 @@
+title: atlas's green-page
+description: research findings blog-site
+
+url: https://burningatlas.github.io
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+# header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: burningatlas
+  #twitter: 
+  #facebook: 
+  email: pruthviraj1398@gmail.com
+  linkedin: pruthvirajbhat
+
+#google_analytics: "UA-58263416-1"
+
+disqus:
+    shortname: burningatlas
