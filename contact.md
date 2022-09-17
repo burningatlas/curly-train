@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact
 ---
 
 try that mailID down below
@@ -22,5 +22,4 @@ try that mailID down below
     <input type="submit" value="Send" class="button">
   </form>
 </div>-->
-
-OK?
+must be helpful
