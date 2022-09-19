@@ -32,8 +32,9 @@ For the regex pattern matching, the module used is re and methods tlked about ar
 
 Repetitive explaination gives me PTSD from learning in the same way from college in the most dry manner. Practical use case is essential. The modules and methods can be referred when it's required. Just learning by focusing each chapter one functionality at a time will prove disastrous wrt time. Casual reference and trial by fire for each of the function can be seen as the most efficient way to cover the topics.
 
-Since I can write simple to intermediate programs using python, I can move along to more important aspects of security. I once read a quote somewhere about learning secuirty:
+Since I can write simple to intermediate programs using python, I can move along to more important aspects of security. I once read a quote somewhere about learning security:
 
 ```
-KEY to learning security concepts: when getting a bit too comfy it's a SIGNAL means you have to move on
+KEY to learning concepts
+when getting a bit too comfy it's a SIGNAL means you have to move on
 ```
